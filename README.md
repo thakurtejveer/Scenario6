@@ -8,6 +8,8 @@ component3 (sibling) should display the text.
 Create the task in a scenario6 folder of your project. All files of the components should be inside the
 scenario6 folder.
 
+PS- data is flowing from parent(component1) to one of the siblins (i.e component3) only.
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
