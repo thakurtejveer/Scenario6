@@ -7,7 +7,7 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class Component3Component implements OnInit {
   title="Scenario 6";
-  @Input() public data;
+  @Input('data') public message;
   
 
   constructor() { }
